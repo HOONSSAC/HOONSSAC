@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="![다오](https://github.com/user-attachments/assets/c8dce94e-08a7-453c-a3c4-813189c8e71d)
+" />
+</div>
+
 <!--
 **HOONSSAC/HOONSSAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
